@@ -1,0 +1,3 @@
+platform :ios, '7.0'
+
+pod 'MMLayershots', '0.2.2'

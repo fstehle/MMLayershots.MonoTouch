@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>MMLayershots.MonoTouch</id>
+    <version>0.2.2</version>
+    <authors>MMLayershots</authors>
+    <description>Generates a Photoshop (PSD) file from your app view hierachy.</description>
+  </metadata>
+  <files>
+    <file src="MMLayershots.dll" target="lib/MonoTouch" />
+  </files>
+</package>

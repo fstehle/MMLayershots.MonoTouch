@@ -1,0 +1,10 @@
+PODS:
+  - MMLayershots (0.2.2)
+
+DEPENDENCIES:
+  - MMLayershots (= 0.2.2)
+
+SPEC CHECKSUMS:
+  MMLayershots: 41fd19946d92a91151a87d5da729beb7d6ba4ea7
+
+COCOAPODS: 0.32.1
